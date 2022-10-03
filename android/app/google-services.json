@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687173307347",
+    "project_id": "study-app-c8202",
+    "storage_bucket": "study-app-c8202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687173307347:android:7b610a2e36f11885a4bd26",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687173307347-0m3clbdukfshvao5ck9044q020lldbm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt795KxX22koAAapOUBlZQljBW6OS_ZNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687173307347-0m3clbdukfshvao5ck9044q020lldbm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
